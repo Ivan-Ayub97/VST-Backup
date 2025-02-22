@@ -18,7 +18,7 @@ Follow these steps to get started with VST Backup:
 3. **Launch the application:** Run VSTBackup.exe on your Windows system.
 4. **Start backing up and organizing your VST plugins!**
 
-VST Backup uses [PyInstaller](https://www.pyinstaller.org/) to simplify installation and the creation of the executable.
+VST Backup uses [PyInstaller](https://www.pyinstaller.org/) to simplify the creation of the executable.
 
 ## 🌟 Key Features
 
