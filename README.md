@@ -1,4 +1,4 @@
-# VST Backup
+# VST-Backup
 
 ### VST Plugin Backup and Organization Tool
 
