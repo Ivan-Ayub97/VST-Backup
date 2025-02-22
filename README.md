@@ -55,7 +55,7 @@ VST Backup uses [PyInstaller](https://www.pyinstaller.org/) to simplify installa
 
 ## 📸 Screenshots
 
-![Screenshot](Capture.png)
+![Screenshot](assets/Capture.png)
 
 ## 📊 System Requirements
 
