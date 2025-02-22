@@ -4,7 +4,7 @@
 
 **VST Backup** is an **open-source desktop application** designed to back up your VST plugins and organize them efficiently. This software allows you to back up plugins with extensions such as **.dll** and **.vst3**, making it easy to keep your plugin library organized and secure.
 
-![VST Backup logo](logo.png)
+![VST Backup logo](assets/logo.png)
 
 ## 🚀 Installation
 
