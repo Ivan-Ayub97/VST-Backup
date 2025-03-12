@@ -1,3 +1,9 @@
+### Download
+
+[Click here to download the installer from Google Drive](https://drive.google.com/file/d/15XEhx5GTJnQDug_F0w-2bL9AgaFszF09/view?usp=sharing)
+
+---
+
 # VST-Backup
 
 ### VST Plugin Backup and Organization Tool
@@ -6,14 +12,17 @@
 
 ![VST Backup logo](assets/logo.png)
 
+---
+
+## 📸 Screenshots
+
+![Screenshot](assets/Capture.png)
+
+---
+
 ## 🚀 Installation
 
 Follow these steps to get started with VST Backup:
-
-### Download
-
-[Click here to download the installer from Google Drive](https://drive.google.com/file/d/15XEhx5GTJnQDug_F0w-2bL9AgaFszF09/view?usp=sharing)
-
 2. **Run the installer** and follow the on-screen instructions.
 3. **Launch the application:** Run VSTBackup.exe on your Windows system.
 4. **Start backing up and organizing your VST plugins!**
@@ -53,9 +62,7 @@ VST Backup uses [PyInstaller](https://www.pyinstaller.org/) to simplify the crea
 6. **Cancel the backup (if needed):** If you wish to stop the process, click **Cancel Backup**.
 7. **Check the logs:** If any errors occur, the error log will be displayed in the corresponding section so you can review and fix any issues.
 
-## 📸 Screenshots
-
-![Screenshot](assets/Capture.png)
+---
 
 ## 📊 System Requirements
 
